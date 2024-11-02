@@ -1,4 +1,4 @@
-# Jordan_Green ST10083222 RPDA8412 Research Project  
+# Jordan Green ST10083222 RPDA8412 Research Project  
 
 # Task Description:  
 This repository contains the code used for the research paper titled: "Artificial Intelligence in Phishing Detection: A Comparative Study of Accuracy, Adaptability, and Practical Implications." The study evaluates the effectiveness of various artificial intelligence (AI) technologies, such as deep learning and machine learning, against traditional rule-based methods in detecting phishing attempts.  
