@@ -37,7 +37,8 @@ Step 7
 Dataset ~  
 Step 1:  
 
-* Ensure you download the Kaggle "EMAIL SPAM DETECTION" dataset and place the spam.csv file in the root directory of this project.  
+* Ensure you download the Kaggle "EMAIL SPAM DETECTION" dataset and place the spam.csv file in the root directory of this project.
+* Link: https://www.kaggle.com/code/anaghakp/email-spam-detection/input  
 * IMAGE: ![image](https://github.com/user-attachments/assets/43199b7d-77fd-43c2-9a50-df4b96395fa1)  
 
 # Code Structure:  
@@ -61,3 +62,10 @@ This repository provides a foundational analysis of AI technologies in phishing 
 
 # Future Work:  
 Further research should explore diverse AI models, human-AI collaboration, and ethical implications in AI-driven cybersecurity frameworks.   
+
+# References  
+Bossio, J. (2023, September 13). Two-sample Chi-square test with Python. Retrieved September 15, 2024, from jonathan Bossio: https://www.jonathanbossio.com/post/two-sample-chi-square-test-with-python  
+GeeksforGeeks. (2022, March 18). Compute Classification Report and Confusion Matrix in Python. Retrieved September 25, 2024, from GeeksforGeeks: https://www.geeksforgeeks.org/compute-classification-report-and-confusion-matrix-in-python/  
+GeeksforGeeks. (2022, 25 May). How to split a Dataset into Train and Test Sets using Python. Retrieved August 22, 2024, from GeeksforGeeks: https://www.geeksforgeeks.org/how-to-split-a-dataset-into-train-and-test-sets-using-python/  
+GeeksforGeeks. (2024, August 12). Bar Graphs and Histograms. Retrieved August 1, 2024, from GeeksforGeeks: https://www.geeksforgeeks.org/bar-graphs-and-histograms/  
+GeeksforGeeks. (2024, April 22). Confusion Matrix In R. Retrieved September 1, 2024, from GeeksforGeeks: https://www.geeksforgeeks.org/confusion-matrix-in-r/  
